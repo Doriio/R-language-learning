@@ -2,3 +2,19 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# macOS 系统生成的隐藏文件
+.DS_Store
+
+# RStudio 生成的文件
+.Rhistory
+.RData
+.Rproj.user/
+
+# R 依赖管理工具生成的文件夹
+packrat/
+renv/
+
+# 其他临时文件
+*.log
+*.tmp
